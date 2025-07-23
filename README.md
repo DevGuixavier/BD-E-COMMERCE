@@ -35,7 +35,7 @@ A modelagem contempla os principais elementos de um sistema de vendas online, co
 ---
 
 ## 🖼️ Diagrama
-![Diagrama EER do Banco de Dados](banco.png)
+![Diagrama EER do Banco de Dados](diagrama.png)
 
 ---
 
